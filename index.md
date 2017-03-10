@@ -4,7 +4,7 @@ layout: default
 
 天行健,君子以自强不息.
 
-[关于](another-page).
+[关于](another-page)
 
 There should be whitespace between paragraphs.
 
@@ -21,6 +21,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 # [](#header-3)编码
+1.[Python Tkinter_Gui_Md5Sha1](./post/20170310/Tkinter_Gui_Md5Sha1.md)
+> 使用Python Tkinter编写的图像化 MD5 sha1 加密计算程序
 
 ```js
 // Javascript code with syntax highlighting.
