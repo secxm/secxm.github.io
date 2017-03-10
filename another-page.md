@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to ximing's Blog
 
-Ximing
+_Ximing_
 
 [back](./)
