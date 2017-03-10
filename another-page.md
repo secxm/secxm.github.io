@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to ximing's Blog
 
-_yay_
+Ximing
 
 [back](./)
