@@ -1,5 +1,5 @@
-title: my private page!
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Ximing's Blog
+description: network python
 show_downloads: true
 google_analytics:
-theme: 
+theme: jekyll-theme-cayman
